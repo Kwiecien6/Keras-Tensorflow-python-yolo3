@@ -1,7 +1,7 @@
 #批量重命名文件
 import os
 
-path = "F:/python_data/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/" #放图片的文件夹
+path = "VOCdevkit/VOC2007/JPEGImages" #放图片的文件夹
 index_no = 1
 for file in os.listdir(path):
     imagepath = os.path.join(path, file)

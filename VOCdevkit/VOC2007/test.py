@@ -3,8 +3,8 @@ import random
 
 trainval_percent = 0.4
 train_percent = 0.6
-xmlfilepath = 'F:\python_data\keras-yolo3\VOCdevkit\VOC2007\Annotations'
-txtsavepath = 'F:\python_data\keras-yolo3\VOCdevkit\VOC2007\ImageSets\Main'
+xmlfilepath = 'VOCdevkit/VOC2007/Annotations'
+txtsavepath = 'VOCdevkit/VOC2007/ImageSets/Main'
 total_xml = os.listdir(xmlfilepath)
 
 num = len(total_xml)
@@ -14,10 +14,10 @@ tr = int(tv * train_percent)
 trainval = random.sample(list, tv)
 train = random.sample(trainval, tr)
 
-ftrainval = open('F:\python_data\keras-yolo3\VOCdevkit\VOC2007\ImageSets/Main/trainval.txt', 'w')
-ftest = open('F:\python_data\keras-yolo3\VOCdevkit\VOC2007\ImageSets/Main/test.txt', 'w')
-ftrain = open('F:\python_data\keras-yolo3\VOCdevkit\VOC2007\ImageSets/Main/train.txt', 'w')
-fval = open('F:\python_data\keras-yolo3\VOCdevkit\VOC2007\ImageSets/Main/val.txt', 'w')
+ftrainval = open('VOCdevkit/VOC2007/ImageSets/Main/trainval.txt', 'w')
+ftest = open('VOCdevkit/VOC2007/ImageSets/Main/test.txt', 'w')
+ftrain = open('VOCdevkit/VOC2007/ImageSets/Main/train.txt', 'w')
+fval = open('VOCdevkit/VOC2007/ImageSets/Main/val.txt', 'w')
 
 for i in list:
  name = total_xml[i][:-4] + '\n'
