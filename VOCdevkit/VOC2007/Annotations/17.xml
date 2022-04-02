@@ -1,50 +1,26 @@
 <annotation>
 	<folder>JPEGImages</folder>
 	<filename>17.jpg</filename>
-	<path>F:\python_data\keras-yolo3\VOCdevkit\VOC2007\JPEGImages\17.jpg</path>
+	<path>F:\python_data\yolo3\VOCdevkit\VOC2007\JPEGImages\17.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1380</width>
-		<height>780</height>
+		<width>640</width>
+		<height>425</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>yangmei</name>
+		<name>airplane</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>239</xmin>
-			<ymin>507</ymin>
-			<xmax>398</xmax>
-			<ymax>654</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>yangmei</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>658</xmin>
-			<ymin>641</ymin>
-			<xmax>812</xmax>
-			<ymax>778</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>yangmei</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>534</xmin>
-			<ymin>550</ymin>
-			<xmax>678</xmax>
-			<ymax>699</ymax>
+			<xmin>130</xmin>
+			<ymin>14</ymin>
+			<xmax>405</xmax>
+			<ymax>392</ymax>
 		</bndbox>
 	</object>
 </annotation>

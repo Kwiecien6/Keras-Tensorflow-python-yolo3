@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>78.jpg</filename>
+	<path>F:\python_data\yolo3\VOCdevkit\VOC2007\JPEGImages\78.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>453</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>airplane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>96</xmin>
+			<ymin>359</ymin>
+			<xmax>281</xmax>
+			<ymax>459</ymax>
+		</bndbox>
+	</object>
+</annotation>

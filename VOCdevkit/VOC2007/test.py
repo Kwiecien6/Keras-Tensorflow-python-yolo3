@@ -1,8 +1,8 @@
 import os
 import random
 
-trainval_percent = 0.4
-train_percent = 0.6
+trainval_percent = 0.2
+train_percent = 0.8
 xmlfilepath = 'VOCdevkit/VOC2007/Annotations'
 txtsavepath = 'VOCdevkit/VOC2007/ImageSets/Main'
 total_xml = os.listdir(xmlfilepath)

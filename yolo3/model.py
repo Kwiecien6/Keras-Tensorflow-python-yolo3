@@ -6,7 +6,7 @@ import numpy as np
 import tensorflow as tf
 gpus = tf.config.experimental.list_physical_devices('GPU')
 tf.config.experimental.set_memory_growth(gpus[0], True)
-tf.compat.v1.disable_eager_execution()
+tf.compat.v1.disable_eager_execution()  #train.py时需注释
 from keras import backend as K
 from keras.layers import Conv2D, Add, ZeroPadding2D, UpSampling2D, Concatenate, MaxPooling2D
 from keras.layers.advanced_activations import LeakyReLU

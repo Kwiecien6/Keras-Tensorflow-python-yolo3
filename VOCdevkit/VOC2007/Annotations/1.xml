@@ -1,146 +1,26 @@
 <annotation>
 	<folder>JPEGImages</folder>
 	<filename>1.jpg</filename>
-	<path>F:\python_data\keras-yolo3\VOCdevkit\VOC2007\JPEGImages\1.jpg</path>
+	<path>F:\python_data\yolo3\VOCdevkit\VOC2007\JPEGImages\1.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>5120</width>
-		<height>3840</height>
+		<width>640</width>
+		<height>480</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>yangmei</name>
+		<name>airplane</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1715</xmin>
-			<ymin>2446</ymin>
-			<xmax>2136</xmax>
-			<ymax>2856</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>yangmei</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>3557</xmin>
-			<ymin>2340</ymin>
-			<xmax>3936</xmax>
-			<ymax>2756</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>yangmei</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>3351</xmin>
-			<ymin>1925</ymin>
-			<xmax>3715</xmax>
-			<ymax>2293</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>yangmei</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1289</xmin>
-			<ymin>2782</ymin>
-			<xmax>1678</xmax>
-			<ymax>3185</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>yangmei</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1282</xmin>
-			<ymin>1930</ymin>
-			<xmax>1630</xmax>
-			<ymax>2285</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>yangmei</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>830</xmin>
-			<ymin>3182</ymin>
-			<xmax>1220</xmax>
-			<ymax>3561</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>yangmei</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>3892</xmin>
-			<ymin>3227</ymin>
-			<xmax>4265</xmax>
-			<ymax>3616</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>yangmei</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1765</xmin>
-			<ymin>1075</ymin>
-			<xmax>2020</xmax>
-			<ymax>1330</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>yangmei</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>2761</xmin>
-			<ymin>871</ymin>
-			<xmax>3020</xmax>
-			<ymax>1120</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>yangmei</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1254</xmin>
-			<ymin>978</ymin>
-			<xmax>1468</xmax>
-			<ymax>1206</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>yangmei</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>682</xmin>
-			<ymin>2223</ymin>
-			<xmax>1030</xmax>
-			<ymax>2544</ymax>
+			<xmin>167</xmin>
+			<ymin>38</ymin>
+			<xmax>330</xmax>
+			<ymax>73</ymax>
 		</bndbox>
 	</object>
 </annotation>

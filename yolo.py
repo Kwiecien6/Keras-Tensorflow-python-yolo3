@@ -23,9 +23,9 @@ from tensorflow.python.keras.utils.multi_gpu_utils import multi_gpu_model
 
 class YOLO(object):
     _defaults = {
-        "model_path": 'logs/000/trained_weights.h5',
+        "model_path": 'logs/000/trained_weights_stage_1.h5',
         "anchors_path": 'model_data/yolo_anchors.txt',
-        "classes_path": 'model_data/coco_classes.txt',
+        "classes_path": 'model_data/my_classes.txt',
         "score" : 0.3,
         "iou" : 0.45,
         "model_image_size" : (416, 416),
@@ -174,8 +174,8 @@ class YOLO(object):
 
 def detect_video(yolo, video_path, output_path=""):
     import cv2
-    vid = cv2.VideoCapture(video_path) #调用路径
-    #vid = cv2.VideoCapture(0,cv2.CAP_DSHOW) #调用摄像头
+    #vid = cv2.VideoCapture(video_path) #调用路径
+    vid = cv2.VideoCapture(0,cv2.CAP_DSHOW) #调用摄像头
 
     if not vid.isOpened():
         raise IOError("Couldn't open webcam or video")
