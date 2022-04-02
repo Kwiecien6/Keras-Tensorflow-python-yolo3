@@ -1,15 +1,23 @@
-F:\python_data\yolo3/VOCdevkit/VOC2007/JPEGImages/16.jpg 313,27,640,164,0
-F:\python_data\yolo3/VOCdevkit/VOC2007/JPEGImages/18.jpg 296,95,548,270,0
-F:\python_data\yolo3/VOCdevkit/VOC2007/JPEGImages/23.jpg 142,218,325,273,0
-F:\python_data\yolo3/VOCdevkit/VOC2007/JPEGImages/26.jpg 368,82,426,101,0
-F:\python_data\yolo3/VOCdevkit/VOC2007/JPEGImages/32.jpg 2,185,273,564,0
-F:\python_data\yolo3/VOCdevkit/VOC2007/JPEGImages/34.jpg 20,205,439,343,0
-F:\python_data\yolo3/VOCdevkit/VOC2007/JPEGImages/47.jpg 313,227,584,395,0
-F:\python_data\yolo3/VOCdevkit/VOC2007/JPEGImages/49.jpg 321,228,640,312,0
-F:\python_data\yolo3/VOCdevkit/VOC2007/JPEGImages/5.jpg 84,107,538,230,0
-F:\python_data\yolo3/VOCdevkit/VOC2007/JPEGImages/57.jpg 265,81,388,123,0
-F:\python_data\yolo3/VOCdevkit/VOC2007/JPEGImages/69.jpg 126,261,497,359,0
-F:\python_data\yolo3/VOCdevkit/VOC2007/JPEGImages/77.jpg 256,76,482,137,0
-F:\python_data\yolo3/VOCdevkit/VOC2007/JPEGImages/79.jpg 43,183,545,421,0
-F:\python_data\yolo3/VOCdevkit/VOC2007/JPEGImages/83.jpg 97,202,595,349,0
-F:\python_data\yolo3/VOCdevkit/VOC2007/JPEGImages/99.jpg 69,25,462,187,0
+F:\python_data\yolo3/VOCdevkit/VOC2007/JPEGImages/101.jpg 257,122,440,295,0 327,285,508,455,0 76,129,250,304,0
+F:\python_data\yolo3/VOCdevkit/VOC2007/JPEGImages/111.jpg 283,324,505,568,0 527,141,771,375,0
+F:\python_data\yolo3/VOCdevkit/VOC2007/JPEGImages/117.jpg 350,272,387,310,0 387,316,425,354,0 204,290,242,327,0 256,228,287,260,0 570,286,607,316,0 434,305,469,342,0 102,253,133,285,0
+F:\python_data\yolo3/VOCdevkit/VOC2007/JPEGImages/119.jpg 142,134,273,271,0 288,125,420,257,0 223,5,333,124,0
+F:\python_data\yolo3/VOCdevkit/VOC2007/JPEGImages/132.jpg 246,89,270,112,0 419,265,433,283,0 522,257,538,275,0 519,27,540,48,0 86,271,107,292,0
+F:\python_data\yolo3/VOCdevkit/VOC2007/JPEGImages/136.jpg 265,139,287,165,0 521,27,540,49,0 125,207,142,228,0 522,258,538,276,0
+F:\python_data\yolo3/VOCdevkit/VOC2007/JPEGImages/139.jpg 366,139,451,222,0 613,299,693,378,0 834,352,901,429,0
+F:\python_data\yolo3/VOCdevkit/VOC2007/JPEGImages/23.jpg 262,157,304,208,0 331,195,372,237,0 428,125,470,164,0 244,1,285,41,0 131,61,174,110,0 262,215,302,257,0 296,343,340,390,0
+F:\python_data\yolo3/VOCdevkit/VOC2007/JPEGImages/36.jpg 75,39,204,170,0 278,258,406,379,0
+F:\python_data\yolo3/VOCdevkit/VOC2007/JPEGImages/39.jpg 191,217,956,982,0
+F:\python_data\yolo3/VOCdevkit/VOC2007/JPEGImages/47.jpg 349,270,505,440,0 364,451,521,587,0 176,578,331,728,0 124,747,291,913,0
+F:\python_data\yolo3/VOCdevkit/VOC2007/JPEGImages/52.jpg 133,62,348,266,0 355,109,564,337,0
+F:\python_data\yolo3/VOCdevkit/VOC2007/JPEGImages/55.jpg 180,117,216,148,0 297,53,336,90,0 169,81,202,116,0 254,156,295,197,0
+F:\python_data\yolo3/VOCdevkit/VOC2007/JPEGImages/59.jpg 487,361,650,530,0 633,485,800,660,0 826,524,994,701,0 909,359,1064,524,0 656,287,822,463,0
+F:\python_data\yolo3/VOCdevkit/VOC2007/JPEGImages/63.jpg 283,149,370,228,0 208,100,282,172,0 194,222,272,302,0 280,232,345,295,0
+F:\python_data\yolo3/VOCdevkit/VOC2007/JPEGImages/8.jpg 398,387,615,598,0 227,257,441,456,0 256,38,418,185,0 428,1,587,147,0
+F:\python_data\yolo3/VOCdevkit/VOC2007/JPEGImages/80.jpg 134,238,230,342,0 156,163,244,241,0
+F:\python_data\yolo3/VOCdevkit/VOC2007/JPEGImages/83.jpg 59,158,131,230,0 140,179,207,254,0 215,164,283,241,0 358,157,431,231,0 254,94,325,159,0 193,100,249,168,0
+F:\python_data\yolo3/VOCdevkit/VOC2007/JPEGImages/91.jpg 175,492,303,588,0 302,541,426,651,0 575,370,714,491,0 753,188,898,293,0 765,44,909,147,0
+F:\python_data\yolo3/VOCdevkit/VOC2007/JPEGImages/93.jpg 360,169,505,334,0 534,212,671,361,0
+F:\python_data\yolo3/VOCdevkit/VOC2007/JPEGImages/94.jpg 147,106,275,255,0 280,143,427,300,0
+F:\python_data\yolo3/VOCdevkit/VOC2007/JPEGImages/96.jpg 865,541,1079,776,0
+F:\python_data\yolo3/VOCdevkit/VOC2007/JPEGImages/98.jpg 143,99,219,175,0 198,176,271,261,0 100,186,189,270,0

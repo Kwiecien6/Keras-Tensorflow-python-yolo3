@@ -6,21 +6,57 @@
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>640</width>
-		<height>427</height>
+		<width>500</width>
+		<height>401</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>airplane</name>
+		<name>yangmei</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>99</xmin>
+			<xmin>2</xmin>
+			<ymin>75</ymin>
+			<xmax>179</xmax>
+			<ymax>248</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>yangmei</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>181</xmin>
+			<ymin>5</ymin>
+			<xmax>351</xmax>
+			<ymax>184</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>yangmei</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>307</xmin>
 			<ymin>101</ymin>
-			<xmax>508</xmax>
-			<ymax>306</ymax>
+			<xmax>500</xmax>
+			<ymax>276</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>yangmei</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>126</xmin>
+			<ymin>202</ymin>
+			<xmax>335</xmax>
+			<ymax>400</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -6,21 +6,21 @@
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>640</width>
-		<height>480</height>
+		<width>720</width>
+		<height>482</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>airplane</name>
+		<name>yangmei</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>239</xmin>
-			<ymin>190</ymin>
-			<xmax>586</xmax>
-			<ymax>295</ymax>
+			<xmin>318</xmin>
+			<ymin>148</ymin>
+			<xmax>446</xmax>
+			<ymax>271</ymax>
 		</bndbox>
 	</object>
 </annotation>
